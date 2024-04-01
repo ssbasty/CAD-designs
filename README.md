@@ -1,2 +1,2 @@
-# CAD-designs
-A repository of all my CAD designs 
+# Computer Aided Design (CAD)
+
